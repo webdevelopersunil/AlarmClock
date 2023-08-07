@@ -19,3 +19,5 @@ In the last section, where all the active alarms listed. In every alarm in listi
 * specific delete button for every alarms in the list for terminate purpose.
 * Alarm will rang for last 2 minutes, After 2 minutes the alarm will be stop ringing.
 * Clear button available for clear the input fields.
+
+Link : https://webdevelopersunil.github.io/AlarmClock/
